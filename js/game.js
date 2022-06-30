@@ -96,7 +96,6 @@ choices.forEach(choice => {
             classToApply = 'correct';
         } else {
             score -= 5;
-            getNewQuestion();
         }
 
     
